@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - MyApp",
+            "request": "launch",
+            "mainClass": "crudjava.MainApplication",
+            "projectName": "crud-java",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
